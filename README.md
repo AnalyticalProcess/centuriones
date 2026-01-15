@@ -1,1 +1,1 @@
-# react-base-18
+Configuración basica React+Babel+Webpack
