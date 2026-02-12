@@ -1,4 +1,5 @@
 import Footer from './Footer.jsx';
+import '../styles/App.css';
 
 function App() {
   return (
